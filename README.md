@@ -70,4 +70,4 @@ The documentation is divided into three guides, based on use case:
 
 # Commercial Support
 
-Expert advice and production support of Jetty are provided by [Webtide](https://webtide.com).
+Expert advice and production support of Jetty are provided by [Webtide](https://webtide.com). 
